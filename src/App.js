@@ -13,7 +13,7 @@ function App() {
         <h1>I'm Ankit Kumar Gupta</h1>
         <artical>
           Software Engineer, I'm passionate about learing new things and getting
-          upgraded.
+          upgrad myself.
         </artical>
       </div>
     </>
